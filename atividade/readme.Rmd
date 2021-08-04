@@ -201,7 +201,7 @@ Mediana= 169
 Média = 166
 Desvio padrão= 6,34
 
-*d)*
+*d)*Conforme a altura aumenta, o peso tende a aumentar proporcionalmente.
 
 ```{r}
 plot(tabela_1_4_$"peso", tabela_1_4_$"altura" , col = "blue", xlab = "peso", ylab = "altura", main = "tabela 1")
