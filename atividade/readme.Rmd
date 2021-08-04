@@ -148,7 +148,7 @@ write_csv(dados_co2_tidy, "dados/tidy/dados_co2_tidy.csv")
 ```
 
 
-*e)*
+*e)*Ao passar dos anos a media esta subindo exponencialmente .
 
 ```{r}
 
